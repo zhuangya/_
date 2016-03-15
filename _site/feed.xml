@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ya Zhuang</title>
+    <description>Just another developer
+</description>
+    <link>http://zhuangya.me/_/</link>
+    <atom:link href="http://zhuangya.me/_/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Mar 2016 15:28:49 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 15:28:49 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+  </channel>
+</rss>
